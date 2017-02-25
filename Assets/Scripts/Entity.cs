@@ -1,10 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(BoxCollider2D))]
-public class Entity : MonoBehaviour {
+public abstract class Entity : MonoBehaviour {
 
+	[Header("Controller")]
 	public float skinWidth = 0.015f;
 	public int verticalRayCount = 4;
 	public int horizontalRayCount = 4;
@@ -17,11 +16,17 @@ public class Entity : MonoBehaviour {
 	private RayOrigins rayOrigins;
 	protected CollisionInfo collisionInfo;
 
-	private void Awake() {
+	[Header("Stats")]
+	public int maxHealth;
+	public int currentHealth;
+
+	protected void Awake() {
 		collider = GetComponent<BoxCollider2D>();
+
+		currentHealth = maxHealth;
 	}
 
-	public void Move(Vector3 _velocity) {
+	protected void Move(Vector3 _velocity) {
 		UpdateRayOrigins();
 		collisionInfo.Reset();
 
@@ -31,6 +36,12 @@ public class Entity : MonoBehaviour {
 			VerticalCollision(ref _velocity);
 
 		transform.Translate(_velocity);
+	}
+
+	protected abstract void Attack(Entity _e);
+
+	public void OnAttacked(int _damage) {
+		
 	}
 
 	private void HorizontalCollisions(ref Vector3 _velocity) {
@@ -94,7 +105,7 @@ public class Entity : MonoBehaviour {
 		public Vector2 BL, BR;
 	}
 
-	public struct CollisionInfo {
+	protected struct CollisionInfo {
 		public bool above, below;
 		public bool left, right;
 
