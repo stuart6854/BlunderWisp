@@ -12,7 +12,7 @@ public abstract class Entity : MonoBehaviour {
 	private float verticalRaySpacing;
 	private float horizontalRaySpacing;
 
-	private BoxCollider2D collider;
+	private BoxCollider2D col;
 	private RayOrigins rayOrigins;
 	protected CollisionInfo collisionInfo;
 
@@ -21,7 +21,8 @@ public abstract class Entity : MonoBehaviour {
 	public int currentHealth;
 
 	protected void Awake() {
-		collider = GetComponent<BoxCollider2D>();
+		col = GetComponent<BoxCollider2D>();
+		CalculateRaySpacing();
 
 		currentHealth = maxHealth;
 	}
@@ -78,12 +79,12 @@ public abstract class Entity : MonoBehaviour {
 				collisionInfo.below = dirY == -1;
 				collisionInfo.above = dirY == 1;
 			}
-			Debug.DrawRay(rayOrigin, Vector2.up * dirY * rayLength, Color.red);
+			Debug.DrawRay(rayOrigin, Vector2.up * dirY, Color.red);
 		}
 	}
 
 	private void UpdateRayOrigins() {
-		Bounds b = collider.bounds;
+		Bounds b = col.bounds;
 		b.Expand(skinWidth * -2);
 
 		rayOrigins.BL = new Vector2(b.min.x, b.min.y);
@@ -93,7 +94,7 @@ public abstract class Entity : MonoBehaviour {
 	}
 
 	private void CalculateRaySpacing() {
-		Bounds b = collider.bounds;
+		Bounds b = col.bounds;
 		b.Expand(skinWidth * -2);
 
 		horizontalRaySpacing = b.size.y / (horizontalRayCount - 1);
