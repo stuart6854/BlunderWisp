@@ -79,7 +79,7 @@ public abstract class Entity : MonoBehaviour {
 				collisionInfo.below = dirY == -1;
 				collisionInfo.above = dirY == 1;
 			}
-			Debug.DrawRay(rayOrigin, Vector2.up * dirY, Color.red);
+			Debug.DrawRay(rayOrigin, Vector2.up * dirY * rayLength, Color.red);
 		}
 	}
 

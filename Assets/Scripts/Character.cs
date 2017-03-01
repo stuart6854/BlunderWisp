@@ -5,14 +5,14 @@ public class Character : Entity {
 
 	public float jumpHeight = 4;
 	public float timeToJumpApex = .4f;
+	public float moveSpeed = 6;
 	private float accelerationTimeAirborne = .2f;
 	private float accelerationTimeGrounded = .1f;
-	public float moveSpeed = 6;
 
-	float gravity;
-	float jumpVelocity;
-	Vector3 velocity;
-	float velocityXSmoothing;
+	private float gravity;
+	private float jumpVelocity;
+	private Vector3 velocity;
+	private float velocityXSmoothing;
 
 	private SpellController spellController;
 
