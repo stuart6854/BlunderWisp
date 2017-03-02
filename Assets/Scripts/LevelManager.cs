@@ -9,11 +9,14 @@ public class LevelManager : MonoBehaviour {
 	private List<Enemy> enemies;
 
 	private void Awake() {
-
+		enemies = new List<Enemy>();
+		foreach(GameObject obj in GameObject.FindGameObjectsWithTag("Enemy")) {
+			enemies.Add(obj.GetComponent<Enemy>());
+		}
 	}
 
 	private void OnTriggerEnter2D(Collider2D _col) {
-		Debug.Log("test Trigger");
+		print("Level Completion Trigger: " + _col.gameObject.name);
 		if(CheckForCompletion())
 			OnLevelComplete();
 	}

@@ -9,6 +9,8 @@ public class Spell : MonoBehaviour {
 	public float speed = 1f;
 	public float lifeTime; // How much time till this spell object is destroyed.
 
+	public LayerMask groundLayer;
+
 	[HideInInspector]
 	public Transform target;
 	[HideInInspector]
@@ -27,16 +29,26 @@ public class Spell : MonoBehaviour {
 	}
 
 	private void OnCollisionEnter2D(Collision2D _col) {
+		print("Collision");
+		if(_col.gameObject.layer == LayerMask.NameToLayer("Ground")) {
+			Destroy(gameObject);
+			return;
+		}
+
 		if(target == null) {
 			Entity e = _col.transform.GetComponent<Entity>();
-			if(e != null)
+			if(e != null) {
 				OnHitTarget(e);
+				Destroy(gameObject);
+			}
 
 			return;
 		}
 
-		if(_col.transform == target)
+		if(_col.transform == target) {
 			OnHitTarget(_col.transform.GetComponent<Entity>());
+			Destroy(gameObject);
+		}
 	}
 
 	private void OnHitTarget(Entity _e) {

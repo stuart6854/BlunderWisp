@@ -12,7 +12,7 @@ public class Enemy : Entity {
 	private void Update() {
 		//float targetVelocityX = input.x * moveSpeed;
 		//velocity.x = Mathf.SmoothDamp(velocity.x, targetVelocityX, ref velocityXSmoothing, (collisionInfo.below) ? accelerationTimeGrounded : accelerationTimeAirborne);
-		velocity.y += gravity * Time.deltaTime;
+		velocity += Physics.gravity * Time.deltaTime;
 		Move(velocity * Time.deltaTime);
 	}
 
