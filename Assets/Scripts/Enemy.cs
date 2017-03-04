@@ -20,4 +20,8 @@ public class Enemy : Entity {
 		
 	}
 
+	protected override void OnDie() {
+		Destroy(gameObject);
+	}
+
 }

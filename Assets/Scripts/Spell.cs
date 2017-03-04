@@ -29,7 +29,6 @@ public class Spell : MonoBehaviour {
 	}
 
 	private void OnCollisionEnter2D(Collision2D _col) {
-		print("Collision");
 		if(_col.gameObject.layer == LayerMask.NameToLayer("Ground")) {
 			Destroy(gameObject);
 			return;

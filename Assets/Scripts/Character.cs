@@ -52,4 +52,8 @@ public class Character : Entity {
 		spellController.UseActiveSpell(dir, _e);
 	}
 
+	protected override void OnDie() {
+		Destroy(gameObject);
+	}
+
 }

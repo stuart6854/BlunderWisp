@@ -42,8 +42,14 @@ public abstract class Entity : MonoBehaviour {
 	protected abstract void Attack(Entity _e);
 
 	public void OnAttacked(int _damage) {
-		
+		currentHealth -= _damage;
+		currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+
+		if(currentHealth <= 0)
+			OnDie();
 	}
+
+	protected abstract void OnDie();
 
 	private void HorizontalCollisions(ref Vector3 _velocity) {
 		float dirX = Mathf.Sign(_velocity.x);
