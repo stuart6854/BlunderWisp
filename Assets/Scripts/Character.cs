@@ -47,7 +47,7 @@ public class Character : Entity {
 
 	protected override void Attack(Entity _e) {
 		Vector3 mousePosWorld = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-		Vector3 dir = (mousePosWorld - transform.position).normalized;
+		Vector3 dir = (mousePosWorld - spellController.spellOrigin.position).normalized;
 
 		spellController.UseActiveSpell(dir, _e);
 	}

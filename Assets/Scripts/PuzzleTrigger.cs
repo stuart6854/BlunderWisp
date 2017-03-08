@@ -4,8 +4,11 @@ public class PuzzleTrigger : MonoBehaviour {
 
 	public PuzzleAction puzzleAction;
 
+	private bool isTriggered;
+
 	private void OnTriggerEnter2D(Collider2D _col) {
-		if(_col.gameObject.layer == LayerMask.NameToLayer("Spell")) {
+		if(_col.gameObject.layer == LayerMask.NameToLayer("Spell") && !isTriggered) {
+			isTriggered = true;
 			puzzleAction.OnPuzzleTriggered();
 			//Darken Sprite to indicate that it has already been triggered
 			Color color = GetComponent<SpriteRenderer>().color;
