@@ -33,7 +33,7 @@ public class Character : Entity {
 
 		Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
 
-		if(Input.GetKeyDown(KeyCode.W) && collisionInfo.below)
+		if(input.y > 0 && collisionInfo.below)
 			velocity.y = jumpVelocity;
 
 		float targetVelocityX = input.x * moveSpeed;

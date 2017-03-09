@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class SpellController : MonoBehaviour {
 
+	//TODO: Stamina type cooldown
+
 	public List<Spell> spells;
 	public Transform spellOrigin;
 
