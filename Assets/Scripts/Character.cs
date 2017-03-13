@@ -3,6 +3,11 @@ using UnityEngine;
 [RequireComponent(typeof(SpellController))]
 public class Character : Entity {
 
+	private const int STATE_IDLE = 0;
+	private const int STATE_WALK = 1;
+	private const int STATE_JUMP = 2;
+	private const int STATE_ATTACK = 3;
+	
 	public float jumpHeight = 4;
 	public float timeToJumpApex = .4f;
 	public float moveSpeed = 6;
@@ -15,6 +20,8 @@ public class Character : Entity {
 	private float velocityXSmoothing;
 
 	private SpellController spellController;
+
+	private bool isPlaying_Attack;
 
 	private new void Awake() {
 		base.Awake();
@@ -41,8 +48,22 @@ public class Character : Entity {
 		velocity.y += gravity * Time.deltaTime;
 		Move(velocity * Time.deltaTime);
 
-		if(Input.GetMouseButtonDown(0))
+		if(animator.GetCurrentAnimatorStateInfo(0).IsName("wispAttack"))
+			isPlaying_Attack = true;
+		else
+			isPlaying_Attack = false;
+
+		Debug.Log((int)velocity.x);
+
+		if((int)velocity.x != 0 && !isPlaying_Attack)
+			ChangeState(STATE_WALK);
+		else if((int)velocity.x == 0)
+			ChangeState(STATE_IDLE);
+
+		if(Input.GetMouseButtonDown(0)) {
 			Attack(null);
+			ChangeState(STATE_ATTACK);
+		}
 	}
 
 	protected override void Attack(Entity _e) {

@@ -3,6 +3,10 @@ using UnityEngine;
 [RequireComponent(typeof(BoxCollider2D))]
 public abstract class Entity : MonoBehaviour {
 
+	[Header("Stats")]
+	public int maxHealth;
+	public int currentHealth;
+
 	[Header("Controller")]
 	public float skinWidth = 0.015f;
 	public int verticalRayCount = 4;
@@ -16,15 +20,16 @@ public abstract class Entity : MonoBehaviour {
 	private RayOrigins rayOrigins;
 	protected CollisionInfo collisionInfo;
 
-	[Header("Stats")]
-	public int maxHealth;
-	public int currentHealth;
+	protected Animator animator;
+	private int currentAnimState;
 
 	protected void Awake() {
 		col = GetComponent<BoxCollider2D>();
 		CalculateRaySpacing();
 
 		currentHealth = maxHealth;
+
+		animator = GetComponent<Animator>();
 	}
 
 	protected void Move(Vector3 _velocity) {
@@ -105,6 +110,13 @@ public abstract class Entity : MonoBehaviour {
 
 		horizontalRaySpacing = b.size.y / (horizontalRayCount - 1);
 		verticalRaySpacing = b.size.x / (verticalRayCount - 1);
+	}
+
+	protected void ChangeState(int _state) {
+		if(currentAnimState == _state)
+			return;
+
+		animator.SetInteger("state", _state);
 	}
 
 	struct RayOrigins {

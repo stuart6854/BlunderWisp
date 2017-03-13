@@ -1,25 +1,41 @@
 fileFormatVersion: 2
-guid: 865ad632a3e79ed43bd03f2845280871
-timeCreated: 1488969963
+guid: fa0732668c1059a4ca92f510eff19b24
+timeCreated: 1489419006
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Wisp walk_0
-    21300002: Wisp walk_1
-    21300004: Wisp walk_2
-    21300006: Wisp walk_3
-    21300008: Wisp walk_4
-    21300010: Wisp walk_5
-    21300012: Wisp walk_6
-    21300014: Wisp walk_7
-    21300016: Wisp walk_8
-    21300018: Wisp walk_9
-    21300020: Wisp walk_10
-    21300022: Wisp walk_11
-    21300024: Wisp walk_12
-    21300026: Wisp walk_13
-    21300028: Wisp walk_14
-    21300030: Wisp walk_15
+    21300000: Wisp walk 1_0
+    21300002: Wisp walk 1_1
+    21300004: Wisp walk 1_2
+    21300006: Wisp walk 1_3
+    21300008: Wisp walk 1_4
+    21300010: Wisp walk 1_5
+    21300012: Wisp walk 1_6
+    21300014: Wisp walk 1_7
+    21300016: Wisp walk 1_8
+    21300018: Wisp walk 1_9
+    21300020: Wisp walk 1_10
+    21300022: Wisp walk 1_11
+    21300024: Wisp walk 1_12
+    21300026: Wisp walk 1_13
+    21300028: Wisp walk 1_14
+    21300030: Wisp walk 1_15
+    21300032: wisp_walk_0
+    21300034: wisp_walk_1
+    21300036: wisp_walk_2
+    21300038: wisp_walk_3
+    21300040: wisp_walk_4
+    21300042: wisp_walk_5
+    21300044: wisp_walk_6
+    21300046: wisp_walk_7
+    21300048: wisp_walk_8
+    21300050: wisp_walk_9
+    21300052: wisp_walk_10
+    21300054: wisp_walk_11
+    21300056: wisp_walk_12
+    21300058: wisp_walk_13
+    21300060: wisp_walk_14
+    21300062: wisp_walk_15
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -69,7 +85,7 @@ TextureImporter:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +93,7 @@ TextureImporter:
   - buildTarget: Standalone
     maxTextureSize: 2048
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -86,12 +102,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wisp walk_0
+      name: wisp_walk_0
       rect:
         serializedVersion: 2
         x: 0
         y: 1631
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -99,12 +115,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_1
+      name: wisp_walk_1
       rect:
         serializedVersion: 2
-        x: 440
+        x: 439
         y: 1631
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -112,12 +128,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_2
+      name: wisp_walk_2
       rect:
         serializedVersion: 2
-        x: 880
+        x: 878
         y: 1631
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -125,12 +141,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_3
+      name: wisp_walk_3
       rect:
         serializedVersion: 2
-        x: 1320
+        x: 1317
         y: 1631
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -138,12 +154,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_4
+      name: wisp_walk_4
       rect:
         serializedVersion: 2
         x: 0
         y: 1214
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -151,12 +167,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_5
+      name: wisp_walk_5
       rect:
         serializedVersion: 2
-        x: 440
+        x: 439
         y: 1214
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -164,12 +180,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_6
+      name: wisp_walk_6
       rect:
         serializedVersion: 2
-        x: 880
+        x: 878
         y: 1214
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -177,12 +193,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_7
+      name: wisp_walk_7
       rect:
         serializedVersion: 2
-        x: 1320
+        x: 1317
         y: 1214
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -190,12 +206,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_8
+      name: wisp_walk_8
       rect:
         serializedVersion: 2
         x: 0
         y: 797
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -203,12 +219,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_9
+      name: wisp_walk_9
       rect:
         serializedVersion: 2
-        x: 440
+        x: 439
         y: 797
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -216,12 +232,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_10
+      name: wisp_walk_10
       rect:
         serializedVersion: 2
-        x: 880
+        x: 878
         y: 797
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -229,12 +245,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_11
+      name: wisp_walk_11
       rect:
         serializedVersion: 2
-        x: 1320
+        x: 1317
         y: 797
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -242,12 +258,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_12
+      name: wisp_walk_12
       rect:
         serializedVersion: 2
         x: 0
         y: 380
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -255,12 +271,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_13
+      name: wisp_walk_13
       rect:
         serializedVersion: 2
-        x: 440
+        x: 439
         y: 380
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -268,12 +284,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_14
+      name: wisp_walk_14
       rect:
         serializedVersion: 2
-        x: 880
+        x: 878
         y: 380
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -281,12 +297,12 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Wisp walk_15
+      name: wisp_walk_15
       rect:
         serializedVersion: 2
-        x: 1320
+        x: 1317
         y: 380
-        width: 440
+        width: 439
         height: 417
       alignment: 7
       pivot: {x: 0.5, y: 0}
