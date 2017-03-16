@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 0b593cfc46bfcd048a6ea5083832eb5c
+timeCreated: 1489676239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lightningSpell_0
+    21300002: lightningSpell_1
+    21300004: lightningSpell_2
+    21300006: lightningSpell_3
+    21300008: lightningSpell_4
+    21300010: lightningSpell_5
+    21300012: lightningSpell_6
+    21300014: lightningSpell_7
+    21300016: lightningSpell_8
+    21300018: lightningSpell_9
+    21300020: lightningSpell_10
+    21300022: lightningSpell_11
+    21300024: lightningSpell_12
+    21300026: lightningSpell_13
+    21300028: lightningSpell_14
+    21300030: lightningSpell_15
+    21300032: lightningSpell_16
+    21300034: lightningSpell_17
+    21300036: lightningSpell_18
+    21300038: lightningSpell_19
+    21300040: lightningSpell_20
+    21300042: lightningSpell_21
+    21300044: lightningSpell_22
+    21300046: lightningSpell_23
+    21300048: lightningSpell_24
+    21300050: lightningSpell_25
+    21300052: lightningSpell_26
+    21300054: lightningSpell_27
+    21300056: lightningSpell_28
+    21300058: lightningSpell_29
+    21300060: lightningSpell_30
+    21300062: lightningSpell_31
+    21300064: lightningSpell_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightningSpell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 919
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 919
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 919
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 814
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 814
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 814
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 709
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 709
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_11
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 709
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 604
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 604
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 604
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 499
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 499
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 499
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 394
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 394
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 394
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 289
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 289
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 289
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 184
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 184
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 184
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightningSpell_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

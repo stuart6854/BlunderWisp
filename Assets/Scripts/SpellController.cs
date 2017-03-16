@@ -12,6 +12,9 @@ public class SpellController : MonoBehaviour {
 	private int activeSpell;
 
 	private void Update() {
+		if(Input.GetKeyDown(KeyCode.E))
+			NextSpell();
+
 		foreach(Spell spell in spells) {
 			if(spell.currentCooldown > 0)
 				spell.currentCooldown -= Time.deltaTime;

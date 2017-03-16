@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 038bb8828c1d6ad4d8bf40613cf6d078
+timeCreated: 1489676105
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: iceSpell_0
+    21300002: iceSpell_1
+    21300004: iceSpell_2
+    21300006: iceSpell_3
+    21300008: iceSpell_4
+    21300010: iceSpell_5
+    21300012: iceSpell_6
+    21300014: iceSpell_7
+    21300016: iceSpell_8
+    21300018: iceSpell_9
+    21300020: iceSpell_10
+    21300022: iceSpell_11
+    21300024: iceSpell_12
+    21300026: iceSpell_13
+    21300028: iceSpell_14
+    21300030: iceSpell_15
+    21300032: iceSpell_16
+    21300034: iceSpell_17
+    21300036: iceSpell_18
+    21300038: iceSpell_19
+    21300040: iceSpell_20
+    21300042: iceSpell_21
+    21300044: iceSpell_22
+    21300046: iceSpell_23
+    21300048: iceSpell_24
+    21300050: iceSpell_25
+    21300052: iceSpell_26
+    21300054: iceSpell_27
+    21300056: iceSpell_28
+    21300058: iceSpell_29
+    21300060: iceSpell_30
+    21300062: iceSpell_31
+    21300064: iceSpell_32
+    21300066: iceSpell_33
+    21300068: iceSpell_34
+    21300070: iceSpell_35
+    21300072: iceSpell_36
+    21300074: iceSpell_37
+    21300076: iceSpell_38
+    21300078: iceSpell_39
+    21300080: iceSpell_40
+    21300082: iceSpell_41
+    21300084: iceSpell_42
+    21300086: iceSpell_43
+    21300088: iceSpell_44
+    21300090: iceSpell_45
+    21300092: iceSpell_46
+    21300094: iceSpell_47
+    21300096: iceSpell_48
+    21300098: iceSpell_49
+    21300100: iceSpell_50
+    21300102: iceSpell_51
+    21300104: iceSpell_52
+    21300106: iceSpell_53
+    21300108: iceSpell_54
+    21300110: iceSpell_55
+    21300112: iceSpell_56
+    21300114: iceSpell_57
+    21300116: iceSpell_58
+    21300118: iceSpell_59
+    21300120: iceSpell_60
+    21300122: iceSpell_61
+    21300124: iceSpell_62
+    21300126: iceSpell_63
+    21300128: iceSpell_64
+    21300130: iceSpell_65
+    21300132: iceSpell_66
+    21300134: iceSpell_67
+    21300136: iceSpell_68
+    21300138: iceSpell_69
+    21300140: iceSpell_70
+    21300142: iceSpell_71
+    21300144: iceSpell_72
+    21300146: iceSpell_73
+    21300148: iceSpell_74
+    21300150: iceSpell_75
+    21300152: iceSpell_76
+    21300154: iceSpell_77
+    21300156: iceSpell_78
+    21300158: iceSpell_79
+    21300160: iceSpell_80
+    21300162: iceSpell_81
+    21300164: iceSpell_82
+    21300166: iceSpell_83
+    21300168: iceSpell_84
+    21300170: iceSpell_85
+    21300172: iceSpell_86
+    21300174: iceSpell_87
+    21300176: iceSpell_88
+    21300178: iceSpell_89
+    21300180: iceSpell_90
+    21300182: iceSpell_91
+    21300184: iceSpell_92
+    21300186: iceSpell_93
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iceSpell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1903
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1903
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1903
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1903
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1903
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_5
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1903
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_6
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1903
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1758
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1758
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1758
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1758
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_12
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1758
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_13
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1758
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1613
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1613
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1613
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1613
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1613
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_19
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1613
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_20
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1613
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1468
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1468
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1468
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1468
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1468
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_27
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1468
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1323
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1323
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1323
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1323
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1323
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_33
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1323
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_34
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1323
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1178
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1178
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1178
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1178
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_39
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1178
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_40
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1178
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_41
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1178
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1033
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1033
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_44
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1033
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1033
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_46
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1033
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_47
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1033
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_48
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1033
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 888
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 888
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_52
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 888
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_53
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 888
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_54
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 888
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_55
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 888
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 743
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 743
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_59
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 743
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_60
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 743
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_61
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 743
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_62
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 743
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 598
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 598
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_66
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 598
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_67
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 598
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_68
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 598
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_69
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 598
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 453
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 453
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_73
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 453
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_74
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 453
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_75
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 453
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 308
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 308
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_79
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 308
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_80
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 308
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_81
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 308
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_84
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_85
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 163
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_86
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 163
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_87
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 163
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 18
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_91
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 18
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_92
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 18
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iceSpell_93
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 18
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

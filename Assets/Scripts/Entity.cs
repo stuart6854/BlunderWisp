@@ -46,7 +46,7 @@ public abstract class Entity : MonoBehaviour {
 
 	protected abstract void Attack(Entity _e);
 
-	public void OnAttacked(int _damage) {
+	public virtual void OnAttacked(int _damage) {
 		currentHealth -= _damage;
 		currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 

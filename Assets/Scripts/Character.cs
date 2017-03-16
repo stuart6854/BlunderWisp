@@ -40,6 +40,9 @@ public class Character : Entity {
 	}
 
 	private void Update() {
+		if(currentHealth <= 0)
+			return;
+
 		if (animator.GetCurrentAnimatorStateInfo(0).IsName("wispAttack"))
 			isPlaying_Attack = true;
 		else
@@ -90,7 +93,7 @@ public class Character : Entity {
 	}
 
 	protected override void OnDie() {
-		Destroy(gameObject);
+		ChangeState(STATE_DEAD);
 	}
 
 }

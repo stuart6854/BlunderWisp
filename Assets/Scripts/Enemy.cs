@@ -40,6 +40,9 @@ public class Enemy : Entity {
 		else
 			AttackMove();
 
+		if(character == null)
+			return;
+
 		if(!seesPlayer)
 			if(Vector3.Distance(transform.position, character.transform.position) <= visionDistance)
 				if (SeesPlayer())
@@ -96,7 +99,7 @@ public class Enemy : Entity {
 	}
 
 	protected override void Attack(Entity _e) {
-		Debug.Log("Enemy Attack");
+		_e.OnAttacked(1);
 	}
 
 	protected override void OnDie() {
