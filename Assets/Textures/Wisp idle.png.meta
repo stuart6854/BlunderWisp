@@ -1,41 +1,26 @@
 fileFormatVersion: 2
-guid: fa0732668c1059a4ca92f510eff19b24
-timeCreated: 1489659200
+guid: dbaf148c6a33ef84c987ae90d9d99dad
+timeCreated: 1489659265
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Wisp walk 1_0
-    21300002: Wisp walk 1_1
-    21300004: Wisp walk 1_2
-    21300006: Wisp walk 1_3
-    21300008: Wisp walk 1_4
-    21300010: Wisp walk 1_5
-    21300012: Wisp walk 1_6
-    21300014: Wisp walk 1_7
-    21300016: Wisp walk 1_8
-    21300018: Wisp walk 1_9
-    21300020: Wisp walk 1_10
-    21300022: Wisp walk 1_11
-    21300024: Wisp walk 1_12
-    21300026: Wisp walk 1_13
-    21300028: Wisp walk 1_14
-    21300030: Wisp walk 1_15
-    21300032: wisp_walk_0
-    21300034: wisp_walk_1
-    21300036: wisp_walk_2
-    21300038: wisp_walk_3
-    21300040: wisp_walk_4
-    21300042: wisp_walk_5
-    21300044: wisp_walk_6
-    21300046: wisp_walk_7
-    21300048: wisp_walk_8
-    21300050: wisp_walk_9
-    21300052: wisp_walk_10
-    21300054: wisp_walk_11
-    21300056: wisp_walk_12
-    21300058: wisp_walk_13
-    21300060: wisp_walk_14
-    21300062: wisp_walk_15
+    21300000: Wisp idle_0
+    21300002: Wisp idle_1
+    21300004: Wisp idle_2
+    21300006: Wisp idle_3
+    21300008: Wisp idle_4
+    21300010: Wisp idle_5
+    21300012: Wisp idle_6
+    21300014: Wisp idle_7
+    21300016: Wisp idle_8
+    21300018: Wisp idle_9
+    21300020: Wisp idle_10
+    21300022: Wisp idle_11
+    21300024: Wisp idle_12
+    21300026: Wisp idle_13
+    21300028: Wisp idle_14
+    21300030: Wisp idle_15
+    21300032: Wisp idle_16
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -85,7 +70,7 @@ TextureImporter:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -93,7 +78,7 @@ TextureImporter:
   - buildTarget: Standalone
     maxTextureSize: 2048
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -102,210 +87,223 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: wisp_walk_0
+      name: Wisp idle_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1631
-        width: 439
-        height: 417
+        y: 1638
+        width: 387
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_1
+      name: Wisp idle_1
       rect:
         serializedVersion: 2
-        x: 439
-        y: 1631
-        width: 439
-        height: 417
+        x: 389
+        y: 1638
+        width: 387
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_2
+      name: Wisp idle_2
       rect:
         serializedVersion: 2
-        x: 878
-        y: 1631
-        width: 439
-        height: 417
+        x: 778
+        y: 1641
+        width: 388
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_3
+      name: Wisp idle_3
       rect:
         serializedVersion: 2
-        x: 1317
-        y: 1631
-        width: 439
-        height: 417
+        x: 1167
+        y: 1641
+        width: 388
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_4
+      name: Wisp idle_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1214
-        width: 439
-        height: 417
+        x: 1555
+        y: 1639
+        width: 389
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_5
-      rect:
-        serializedVersion: 2
-        x: 439
-        y: 1214
-        width: 439
-        height: 417
-      alignment: 9
-      pivot: {x: 0.3, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wisp_walk_6
-      rect:
-        serializedVersion: 2
-        x: 878
-        y: 1214
-        width: 439
-        height: 417
-      alignment: 9
-      pivot: {x: 0.3, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wisp_walk_7
-      rect:
-        serializedVersion: 2
-        x: 1317
-        y: 1214
-        width: 439
-        height: 417
-      alignment: 9
-      pivot: {x: 0.3, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wisp_walk_8
+      name: Wisp idle_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 797
-        width: 439
-        height: 417
+        y: 1229
+        width: 388
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_9
+      name: Wisp idle_6
       rect:
         serializedVersion: 2
-        x: 439
-        y: 797
-        width: 439
-        height: 417
+        x: 388
+        y: 1228
+        width: 390
+        height: 408
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_10
+      name: Wisp idle_7
       rect:
         serializedVersion: 2
-        x: 878
-        y: 797
-        width: 439
-        height: 417
+        x: 777
+        y: 1228
+        width: 390
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_11
+      name: Wisp idle_8
       rect:
         serializedVersion: 2
-        x: 1317
-        y: 797
-        width: 439
-        height: 417
+        x: 1167
+        y: 1228
+        width: 387
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_12
+      name: Wisp idle_9
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1228
+        width: 388
+        height: 407
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp idle_10
       rect:
         serializedVersion: 2
         x: 0
-        y: 380
-        width: 439
-        height: 417
+        y: 818
+        width: 389
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_13
+      name: Wisp idle_11
       rect:
         serializedVersion: 2
-        x: 439
-        y: 380
-        width: 439
-        height: 417
+        x: 388
+        y: 816
+        width: 390
+        height: 409
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_14
+      name: Wisp idle_12
       rect:
         serializedVersion: 2
-        x: 878
-        y: 380
-        width: 439
-        height: 417
+        x: 776
+        y: 819
+        width: 392
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wisp_walk_15
+      name: Wisp idle_13
       rect:
         serializedVersion: 2
-        x: 1317
-        y: 380
-        width: 439
-        height: 417
+        x: 1166
+        y: 819
+        width: 389
+        height: 407
       alignment: 9
-      pivot: {x: 0.3, y: 0}
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp idle_14
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 821
+        width: 388
+        height: 407
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 388
+        height: 407
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp idle_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 408
+        width: 387
+        height: 407
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

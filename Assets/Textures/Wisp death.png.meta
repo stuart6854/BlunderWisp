@@ -1,0 +1,986 @@
+fileFormatVersion: 2
+guid: df19c50e646c8554bb4ef3165a7295e2
+timeCreated: 1489660197
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wisp death_0
+    21300002: Wisp death_1
+    21300004: Wisp death_2
+    21300006: Wisp death_3
+    21300008: Wisp death_4
+    21300010: Wisp death_5
+    21300012: Wisp death_6
+    21300014: Wisp death_7
+    21300016: Wisp death_8
+    21300018: Wisp death_9
+    21300020: Wisp death_10
+    21300022: Wisp death_11
+    21300024: Wisp death_12
+    21300026: Wisp death_13
+    21300028: Wisp death_14
+    21300030: Wisp death_15
+    21300032: Wisp death_16
+    21300034: Wisp death_17
+    21300036: Wisp death_18
+    21300038: Wisp death_19
+    21300040: Wisp death_20
+    21300042: Wisp death_21
+    21300044: Wisp death_22
+    21300046: Wisp death_23
+    21300048: Wisp death_24
+    21300050: Wisp death_25
+    21300052: Wisp death_26
+    21300054: Wisp death_27
+    21300056: Wisp death_28
+    21300058: Wisp death_29
+    21300060: Wisp death_30
+    21300062: Wisp death_31
+    21300064: Wisp death_32
+    21300066: Wisp death_33
+    21300068: Wisp death_34
+    21300070: Wisp death_35
+    21300072: Wisp death_36
+    21300074: Wisp death_37
+    21300076: Wisp death_38
+    21300078: Wisp death_39
+    21300080: Wisp death_40
+    21300082: Wisp death_41
+    21300084: Wisp death_42
+    21300086: Wisp death_43
+    21300088: Wisp death_44
+    21300090: Wisp death_45
+    21300092: Wisp death_46
+    21300094: Wisp death_47
+    21300096: Wisp death_48
+    21300098: Wisp death_49
+    21300100: Wisp death_50
+    21300102: Wisp death_51
+    21300104: Wisp death_52
+    21300106: Wisp death_53
+    21300108: Wisp death_54
+    21300110: Wisp death_55
+    21300112: Wisp death_56
+    21300114: Wisp death_57
+    21300116: Wisp death_58
+    21300118: Wisp death_59
+    21300120: Wisp death_60
+    21300122: Wisp death_61
+    21300124: Wisp death_62
+    21300126: Wisp death_63
+    21300128: Wisp death_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wisp death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7774
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_1
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 7774
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_2
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 7774
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_3
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 7774
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_4
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 7774
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7356
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 7356
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_7
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 7356
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_8
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 7356
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_9
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 7356
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6938
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 6938
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_12
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 6938
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_13
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 6938
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_14
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 6938
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6520
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 6520
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_17
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 6520
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_18
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 6520
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_19
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 6520
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6102
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_21
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 6102
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_22
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 6102
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_23
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 6102
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_24
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 6102
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5684
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_26
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 5684
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_27
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 5684
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_28
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 5684
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_29
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 5684
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5266
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_31
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 5266
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_32
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 5266
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_33
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 5266
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_34
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 5266
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4848
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_36
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 4848
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_37
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 4848
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_38
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 4848
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_39
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 4848
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4430
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_41
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 4430
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_42
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 4430
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_43
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 4430
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_44
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 4430
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4012
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_46
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 4012
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_47
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 4012
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_48
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 4012
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_49
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 4012
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3594
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_51
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3594
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_52
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3594
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_53
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 3594
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_54
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 3594
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3176
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_56
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3176
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_57
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3176
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_58
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 3176
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_59
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 3176
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2758
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_61
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2758
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_62
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2758
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_63
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2758
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp death_64
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 2758
+        width: 694
+        height: 418
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

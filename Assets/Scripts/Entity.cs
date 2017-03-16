@@ -25,11 +25,11 @@ public abstract class Entity : MonoBehaviour {
 
 	protected void Awake() {
 		col = GetComponent<BoxCollider2D>();
+		animator = GetComponent<Animator>();
+
 		CalculateRaySpacing();
 
 		currentHealth = maxHealth;
-
-		animator = GetComponent<Animator>();
 	}
 
 	protected void Move(Vector3 _velocity) {
@@ -117,6 +117,7 @@ public abstract class Entity : MonoBehaviour {
 			return;
 
 		animator.SetInteger("state", _state);
+		currentAnimState = _state;
 	}
 
 	struct RayOrigins {
