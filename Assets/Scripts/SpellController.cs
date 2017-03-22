@@ -22,10 +22,10 @@ public class SpellController : MonoBehaviour {
 	}
 
 	public void UseActiveSpell(Vector3 _dir, Entity _target) {
-		Spell usedSpell = spells[this.activeSpell];
-		if(usedSpell.currentCooldown > 0)
+		if(!CanUseActiveSpell())
 			return;
 
+		Spell usedSpell = spells[this.activeSpell];
 		usedSpell.currentCooldown = usedSpell.cooldownTime;
 
 		GameObject spellObj = Instantiate(usedSpell.gameObject, spellOrigin.position, Quaternion.identity);
@@ -49,6 +49,11 @@ public class SpellController : MonoBehaviour {
 			return;
 
 		activeSpell = _spell;
+	}
+
+	public bool CanUseActiveSpell() {
+		Spell usedSpell = spells[this.activeSpell];
+		return (usedSpell.currentCooldown <= 0f);
 	}
 
 }

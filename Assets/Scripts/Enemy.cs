@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Enemy : Entity {
 
+	[Header("Enemy Specific Stats")]
 	public float moveSpeed = 2;
+	public int attackDamage = 1;
 
 	public Character character;
 	public float visionDistance = 5.0f;
@@ -99,7 +101,7 @@ public class Enemy : Entity {
 	}
 
 	protected override void Attack(Entity _e) {
-		_e.OnAttacked(1);
+		_e.OnAttacked(attackDamage);
 	}
 
 	protected override void OnDie() {

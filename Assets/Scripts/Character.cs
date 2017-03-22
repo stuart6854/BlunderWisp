@@ -43,10 +43,12 @@ public class Character : Entity {
 		if(currentHealth <= 0)
 			return;
 
-		if (animator.GetCurrentAnimatorStateInfo(0).IsName("wispAttack"))
+		if(animator.GetCurrentAnimatorStateInfo(0).IsName("wispAttack"))
 			isPlaying_Attack = true;
 		else
 			isPlaying_Attack = false;
+
+		HandleAnims();
 		
 		if(collisionInfo.above || collisionInfo.below)
 			velocity.y = 0;
@@ -64,19 +66,17 @@ public class Character : Entity {
 		if(Input.GetMouseButtonDown(0))
 			Attack(null);
 
-		HandleAnims();
 	}
 
 	private void HandleAnims() {
 		int movement = (int)Input.GetAxisRaw("Horizontal");
 
 		Vector3 scale = transform.localScale;
-
-		if (movement < 0)scale.x = -defaultXScale;
+		if (movement < 0) scale.x = -defaultXScale;
 		else if (movement > 0) scale.x = defaultXScale;
 		transform.localScale = scale;
 
-		if(Input.GetMouseButtonDown(0))
+		if(Input.GetMouseButtonDown(0) && spellController.CanUseActiveSpell())
 			ChangeState(STATE_ATTACK);
 		else if(movement == 0 && !isPlaying_Attack)
 			ChangeState(STATE_IDLE);
