@@ -105,6 +105,7 @@ public class Enemy : Entity {
 	}
 
 	protected override void OnDie() {
+		LevelManager.AddScore(LevelManager.SCORE_PER_KILL);
 		Destroy(gameObject);
 	}
 
