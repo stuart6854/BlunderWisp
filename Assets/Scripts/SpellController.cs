@@ -1,24 +1,35 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SpellController : MonoBehaviour {
 
-	//TODO: Stamina type cooldown
+	public float maxMana = 5.0f;
+	public float manaRechargeTime = 5.0f;
 
-	public List<Spell> spells;
+	public Image manaUI;
 	public Transform spellOrigin;
+	public List<Spell> spells;
 
 	private int activeSpell;
+
+	private float currentMana;
+	private float manaPerSec;
+
+	private void Start() {
+		manaPerSec = (maxMana / manaRechargeTime);
+		currentMana = maxMana;
+	}
 
 	private void Update() {
 		if(Input.GetKeyDown(KeyCode.E))
 			NextSpell();
 
-		foreach(Spell spell in spells) {
-			if(spell.currentCooldown > 0)
-				spell.currentCooldown -= Time.deltaTime;
-		}
+		currentMana += manaPerSec * Time.deltaTime;
+		currentMana = Mathf.Clamp(currentMana, 0f, maxMana);
+		if(manaUI != null)
+			manaUI.fillAmount = (currentMana / maxMana);
 	}
 
 	public void UseActiveSpell(Vector3 _dir, Entity _target) {
@@ -26,7 +37,7 @@ public class SpellController : MonoBehaviour {
 			return;
 
 		Spell usedSpell = spells[this.activeSpell];
-		usedSpell.currentCooldown = usedSpell.cooldownTime;
+		currentMana -= usedSpell.manaRequired;
 
 		GameObject spellObj = Instantiate(usedSpell.gameObject, spellOrigin.position, Quaternion.identity);
 		//Rotation
@@ -53,7 +64,7 @@ public class SpellController : MonoBehaviour {
 
 	public bool CanUseActiveSpell() {
 		Spell usedSpell = spells[this.activeSpell];
-		return (usedSpell.currentCooldown <= 0f);
+		return (currentMana >= usedSpell.manaRequired);
 	}
 
 }

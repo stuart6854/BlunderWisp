@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Spell : MonoBehaviour {
 
-	public float cooldownTime = 1f;
+	public float manaRequired = 1.0f;
 	public int damage = 1;
 	public float speed = 1f;
 	public float lifeTime = 4f; // How much time till this spell object is destroyed.
@@ -13,8 +13,6 @@ public class Spell : MonoBehaviour {
 
 	[HideInInspector]
 	public Transform target;
-	[HideInInspector]
-	public float currentCooldown;
 
 	private void Update() {
 		lifeTime -= Time.deltaTime;
