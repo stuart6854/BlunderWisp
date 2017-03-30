@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 [RequireComponent(typeof(SpellController))]
 public class Character : Entity {
@@ -14,6 +15,8 @@ public class Character : Entity {
 	public float moveSpeed = 6;
 	private float accelerationTimeAirborne = .2f;
 	private float accelerationTimeGrounded = .1f;
+
+	public Image healthBar;
 
 	private float gravity;
 	private float jumpVelocity;
@@ -63,6 +66,7 @@ public class Character : Entity {
 		velocity.y += gravity * Time.deltaTime;
 		Move(velocity * Time.deltaTime);
 
+
 		if(Input.GetMouseButtonDown(0))
 			Attack(null);
 
@@ -89,7 +93,22 @@ public class Character : Entity {
 		Vector3 mousePosWorld = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 		Vector3 dir = (mousePosWorld - spellController.spellOrigin.position).normalized;
 
+		Vector3 charDir = (mousePosWorld - transform.position).normalized;
+		Vector3 scale = transform.localScale;
+		if(charDir.x < 0)
+			scale.x = -defaultXScale;
+		else if(charDir.x > 0)
+			scale.x = defaultXScale;
+		transform.localScale = scale;
+
+
 		spellController.UseActiveSpell(dir, _e);
+	}
+
+	public override void OnAttacked(int _damage) {
+		base.OnAttacked(_damage);
+
+		healthBar.fillAmount = ((float)currentHealth / (float)maxHealth);
 	}
 
 	protected override void OnDie() {
