@@ -9,6 +9,8 @@ public class Spell : MonoBehaviour {
 	public float speed = 1f;
 	public float lifeTime = 4f; // How much time till this spell object is destroyed.
 
+	public Sprite icon;
+
 	public LayerMask groundLayer;
 
 	[HideInInspector]

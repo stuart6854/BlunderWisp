@@ -9,6 +9,7 @@ public class SpellController : MonoBehaviour {
 	public float manaRechargeTime = 5.0f;
 
 	public Image manaUI;
+	public Image spellIcon;
 	public Transform spellOrigin;
 	public List<Spell> spells;
 
@@ -53,6 +54,8 @@ public class SpellController : MonoBehaviour {
 		activeSpell++;
 		if(activeSpell >= spells.Count)
 			activeSpell = 0;
+
+		UpdateSpellIcon();
 	}
 
 	public void SetSpell(int _spell) {
@@ -60,11 +63,17 @@ public class SpellController : MonoBehaviour {
 			return;
 
 		activeSpell = _spell;
+		UpdateSpellIcon();
 	}
 
 	public bool CanUseActiveSpell() {
 		Spell usedSpell = spells[this.activeSpell];
 		return (currentMana >= usedSpell.manaRequired);
+	}
+
+	private void UpdateSpellIcon() {
+		if(spellIcon != null)
+			spellIcon.sprite = spells[activeSpell].icon;
 	}
 
 }
