@@ -56,7 +56,8 @@ public class Character : Entity {
 		if(collisionInfo.above || collisionInfo.below)
 			velocity.y = 0;
 
-		Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+		Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), 0);
+		input.y = (Input.GetButtonDown("Jump") ? 1 : 0);
 
 		if(input.y > 0 && collisionInfo.below)
 			velocity.y = jumpVelocity;
@@ -73,7 +74,7 @@ public class Character : Entity {
 	}
 
 	private void HandleAnims() {
-		int movement = (int)Input.GetAxisRaw("Horizontal");
+		float movement = Input.GetAxisRaw("Horizontal");
 
 		Vector3 scale = transform.localScale;
 		if (movement < 0) scale.x = -defaultXScale;
@@ -100,7 +101,6 @@ public class Character : Entity {
 		else if(charDir.x > 0)
 			scale.x = defaultXScale;
 		transform.localScale = scale;
-
 
 		spellController.UseActiveSpell(dir, _e);
 	}

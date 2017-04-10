@@ -11,6 +11,7 @@ public class Enemy : Entity {
 	public Character character;
 	public float visionDistance = 5.0f;
 	public float attackDistance = 1.0f;
+	public float attackCooldownTime = 2.0f;
 
 	private float accelerationTimeAirborne = .2f;
 	private float accelerationTimeGrounded = .1f;
@@ -24,6 +25,7 @@ public class Enemy : Entity {
 	private int currentWaypoint;
 
 	private bool seesPlayer;
+	private float attackCooldownTimer;
 
 	private void Start() {
 		List<Vector3> wps = new List<Vector3>();
@@ -37,6 +39,9 @@ public class Enemy : Entity {
 	}
 
 	private void Update() {
+		if(attackCooldownTimer > 0)
+			attackCooldownTimer -= Time.deltaTime;
+
 		if(!seesPlayer)
 			WaypointMove();
 		else
@@ -73,8 +78,9 @@ public class Enemy : Entity {
 
 	private void AttackMove() {
 		float dist = Vector3.Distance(transform.position, character.transform.position);
-		if (dist <= attackDistance) {
+		if (dist <= attackDistance && attackCooldownTimer <= 0f) {
 			Attack(character);
+			attackCooldownTimer = attackCooldownTime;
 			return;
 		}
 
