@@ -24,7 +24,7 @@ public class SpellController : MonoBehaviour {
 	}
 
 	private void Update() {
-		if(Input.GetKeyDown(KeyCode.E))
+		if(Input.GetKeyDown(KeyCode.E) && gameObject.CompareTag("Player"))
 			NextSpell();
 
 		currentMana += manaPerSec * Time.deltaTime;

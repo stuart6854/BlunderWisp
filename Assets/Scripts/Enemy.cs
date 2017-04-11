@@ -21,11 +21,11 @@ public class Enemy : Entity {
 	private Vector3 velocity;
 	private float velocityXSmoothing;
 
-	private Vector3[] waypoints;
-	private int currentWaypoint;
+	protected Vector3[] waypoints;
+	protected int currentWaypoint;
 
-	private bool seesPlayer;
-	private float attackCooldownTimer;
+	protected bool seesPlayer;
+	protected float attackCooldownTimer;
 
 	private void Start() {
 		List<Vector3> wps = new List<Vector3>();
@@ -98,7 +98,6 @@ public class Enemy : Entity {
 
 		Vector3 origin = transform.position;
 		Vector3 dir = transform.position - character.transform.position;
-		RaycastHit2D hit;
 		if (Physics2D.Raycast(origin, dir, visionDistance, LayerMask.GetMask("Character"))) {
 			return true;
 		}
