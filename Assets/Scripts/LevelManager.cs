@@ -23,6 +23,7 @@ public class LevelManager : MonoBehaviour {
 	public GameObject levelCompleteUI;
 	public GameObject levelFailedUI;
 	public Text scoreLabel;
+	public Text timeLabel;
 	public Character characterController;
 
 	private float levelStartTime;
@@ -44,6 +45,16 @@ public class LevelManager : MonoBehaviour {
 
 		currentScore = 0;
 		scoreLabel.text = currentScore + "";
+	}
+
+	private void Update() {
+		float passedTime = Time.time - levelStartTime;
+		int minutes = (int)passedTime / 60;
+		int seconds = (int) passedTime % 60;
+
+		string m = (minutes >= 10) ? "" + minutes : "0" + minutes;
+		string s = (seconds >= 10) ? "" + seconds : "0" + seconds;
+		timeLabel.text = m + ":" + s;
 	}
 
 	private void OnTriggerEnter2D(Collider2D _col) {
