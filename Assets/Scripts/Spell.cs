@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Spell : MonoBehaviour {
 
+	public string spellIdentifier; //Used for triggers
 	public float manaRequired = 1.0f;
 	public int damage = 1;
 	public float speed = 1f;
