@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 0c02df2e5609f474fb933192c6870ed5
+timeCreated: 1492190483
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: levelBoundary_0
+    21300002: levelBoundary_1
+    21300004: levelBoundary_2
+    21300006: levelBoundary_3
+    21300008: levelBoundary_4
+    21300010: levelBoundary_5
+    21300012: levelBoundary_6
+    21300014: levelBoundary_7
+    21300016: levelBoundary_8
+    21300018: levelBoundary_9
+    21300020: levelBoundary_10
+    21300022: levelBoundary_11
+    21300024: levelBoundary_12
+    21300026: levelBoundary_13
+    21300028: levelBoundary_14
+    21300030: levelBoundary_15
+    21300032: levelBoundary_16
+    21300034: levelBoundary_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: levelBoundary_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7904
+        width: 4130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7439
+        width: 4133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6975
+        width: 4141
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6508
+        width: 4141
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6040
+        width: 4144
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5571
+        width: 4154
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5103
+        width: 4157
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4639
+        width: 4166
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4172
+        width: 4170
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3704
+        width: 4178
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3240
+        width: 4181
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2771
+        width: 4186
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2316
+        width: 4181
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1864
+        width: 4178
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1411
+        width: 4170
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 956
+        width: 4166
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 504
+        width: 4157
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levelBoundary_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 4154
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
