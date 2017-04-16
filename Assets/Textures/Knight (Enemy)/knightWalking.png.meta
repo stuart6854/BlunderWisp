@@ -1,9 +1,33 @@
 fileFormatVersion: 2
 guid: 71c8eacbe5972d34a8e7b8ae878042e7
-timeCreated: 1492185682
+timeCreated: 1492351950
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: knightWalking_0
+    21300002: knightWalking_1
+    21300004: knightWalking_2
+    21300006: knightWalking_3
+    21300008: knightWalking_4
+    21300010: knightWalking_5
+    21300012: knightWalking_6
+    21300014: knightWalking_7
+    21300016: knightWalking_8
+    21300018: knightWalking_9
+    21300020: knightWalking_10
+    21300022: knightWalking_11
+    21300024: knightWalking_12
+    21300026: knightWalking_13
+    21300028: knightWalking_14
+    21300030: knightWalking_15
+    21300032: knightWalking_16
+    21300034: knightWalking_17
+    21300036: knightWalking_18
+    21300038: knightWalking_19
+    21300040: knightWalking_20
+    21300042: knightWalking_21
+    21300044: knightWalking_22
+    21300046: knightWalking_23
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +82,329 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: knightWalking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3426
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3426
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3426
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3426
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3426
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3426
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2756
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2756
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2756
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2756
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2756
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2756
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2086
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2086
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2086
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2086
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_16
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2086
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2086
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1416
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1416
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_21
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1416
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_22
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1416
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightWalking_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1416
+        width: 600
+        height: 670
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

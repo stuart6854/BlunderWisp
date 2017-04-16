@@ -1,9 +1,33 @@
 fileFormatVersion: 2
 guid: f543dc3a5e97dfa44afd9f2393c40db1
-timeCreated: 1492185735
+timeCreated: 1492351257
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: knightDeath_0
+    21300002: knightDeath_1
+    21300004: knightDeath_2
+    21300006: knightDeath_3
+    21300008: knightDeath_4
+    21300010: knightDeath_5
+    21300012: knightDeath_6
+    21300014: knightDeath_7
+    21300016: knightDeath_8
+    21300018: knightDeath_9
+    21300020: knightDeath_10
+    21300022: knightDeath_11
+    21300024: knightDeath_12
+    21300026: knightDeath_13
+    21300028: knightDeath_14
+    21300030: knightDeath_15
+    21300032: knightDeath_16
+    21300034: knightDeath_17
+    21300036: knightDeath_18
+    21300038: knightDeath_19
+    21300040: knightDeath_20
+    21300042: knightDeath_21
+    21300044: knightDeath_22
+    21300046: knightDeath_23
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +82,329 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: knightDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7442
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_1
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 7442
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_2
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 7442
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6692
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_4
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 6692
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_5
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 6692
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5942
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_7
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 5942
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_8
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 5942
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5192
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_10
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 5192
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_11
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 5192
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4442
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_13
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 4442
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_14
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 4442
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3692
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_16
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 3692
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_17
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 3692
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2942
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_19
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 2942
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_20
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2942
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_22
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 2192
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightDeath_23
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2192
+        width: 1340
+        height: 750
+      alignment: 9
+      pivot: {x: 0.13, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

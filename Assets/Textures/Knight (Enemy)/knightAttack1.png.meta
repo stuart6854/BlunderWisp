@@ -1,9 +1,33 @@
 fileFormatVersion: 2
 guid: c05d7b816bc692244ac94beb5a600e38
-timeCreated: 1492185696
+timeCreated: 1492350771
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: knightAttack1_0
+    21300002: knightAttack1_1
+    21300004: knightAttack1_2
+    21300006: knightAttack1_3
+    21300008: knightAttack1_4
+    21300010: knightAttack1_5
+    21300012: knightAttack1_6
+    21300014: knightAttack1_7
+    21300016: knightAttack1_8
+    21300018: knightAttack1_9
+    21300020: knightAttack1_10
+    21300022: knightAttack1_11
+    21300024: knightAttack1_12
+    21300026: knightAttack1_13
+    21300028: knightAttack1_14
+    21300030: knightAttack1_15
+    21300032: knightAttack1_16
+    21300034: knightAttack1_17
+    21300036: knightAttack1_18
+    21300038: knightAttack1_19
+    21300040: knightAttack1_20
+    21300042: knightAttack1_21
+    21300044: knightAttack1_22
+    21300046: knightAttack1_23
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +82,329 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: knightAttack1_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7244
+        width: 362
+        height: 657
+      alignment: 9
+      pivot: {x: 0.7163361, y: 0.08593378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_1
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7239
+        width: 437
+        height: 662
+      alignment: 9
+      pivot: {x: 0.76672727, y: 0.09078712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_2
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 7239
+        width: 497
+        height: 662
+      alignment: 9
+      pivot: {x: 0.7858297, y: 0.077031896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_3
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 7239
+        width: 525
+        height: 662
+      alignment: 9
+      pivot: {x: 0.7844615, y: 0.07428071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6243
+        width: 520
+        height: 662
+      alignment: 9
+      pivot: {x: 0.78019196, y: 0.07428071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 6243
+        width: 490
+        height: 714
+      alignment: 9
+      pivot: {x: 0.76017815, y: 0.071421735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_6
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 6243
+        width: 430
+        height: 801
+      alignment: 9
+      pivot: {x: 0.7075377, y: 0.07048562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_7
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 6239
+        width: 349
+        height: 874
+      alignment: 9
+      pivot: {x: 0.63046134, y: 0.06876553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5247
+        width: 305
+        height: 914
+      alignment: 9
+      pivot: {x: 0.5776269, y: 0.055793345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_9
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 5244
+        width: 250
+        height: 925
+      alignment: 9
+      pivot: {x: 0.45629004, y: 0.06103674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_10
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 5244
+        width: 325
+        height: 905
+      alignment: 9
+      pivot: {x: 0.3486959, y: 0.05836067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_11
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 5244
+        width: 425
+        height: 856
+      alignment: 9
+      pivot: {x: 0.25573817, y: 0.053190712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 4239
+        width: 229
+        height: 933
+      alignment: 9
+      pivot: {x: 0.52385914, y: 0.05270507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_13
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 4236
+        width: 341
+        height: 897
+      alignment: 9
+      pivot: {x: 0.72965866, y: 0.05482032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_14
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 4239
+        width: 510
+        height: 757
+      alignment: 9
+      pivot: {x: 0.81425446, y: 0.05774103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_15
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 4243
+        width: 598
+        height: 602
+      alignment: 9
+      pivot: {x: 0.8532854, y: 0.09076029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3259
+        width: 586
+        height: 574
+      alignment: 9
+      pivot: {x: 0.8449805, y: 0.076149754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_17
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 3271
+        width: 470
+        height: 538
+      alignment: 9
+      pivot: {x: 0.80999964, y: 0.08801587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_18
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 3263
+        width: 454
+        height: 570
+      alignment: 9
+      pivot: {x: 0.792844, y: 0.07668457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_19
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 3260
+        width: 438
+        height: 593
+      alignment: 9
+      pivot: {x: 0.77859235, y: 0.06756767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2263
+        width: 418
+        height: 610
+      alignment: 9
+      pivot: {x: 0.7657802, y: 0.07464139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_21
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2263
+        width: 394
+        height: 634
+      alignment: 9
+      pivot: {x: 0.75885755, y: 0.07468855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_22
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2267
+        width: 373
+        height: 649
+      alignment: 9
+      pivot: {x: 0.73436975, y: 0.06734971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knightAttack1_23
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 2271
+        width: 357
+        height: 661
+      alignment: 9
+      pivot: {x: 0.7040612, y: 0.066127025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
