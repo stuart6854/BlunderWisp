@@ -1,9 +1,21 @@
 fileFormatVersion: 2
 guid: 9133b1ac560950d429b5d81ba306ac77
-timeCreated: 1492185684
+timeCreated: 1492360370
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: fanngSpell_0
+    21300002: fanngSpell_1
+    21300004: fanngSpell_2
+    21300006: fanngSpell_3
+    21300008: fanngSpell_4
+    21300010: fanngSpell_5
+    21300012: fanngSpell_6
+    21300014: fanngSpell_7
+    21300016: fanngSpell_8
+    21300018: fanngSpell_9
+    21300020: fanngSpell_10
+    21300022: fanngSpell_11
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +70,173 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: fanngSpell_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1796
+        width: 241
+        height: 217
+      alignment: 9
+      pivot: {x: 0.42936933, y: 0.51153594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1798
+        width: 249
+        height: 215
+      alignment: 9
+      pivot: {x: 0.41354308, y: 0.502329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1506
+        width: 266
+        height: 215
+      alignment: 9
+      pivot: {x: 0.38520974, y: 0.50916266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1504
+        width: 279
+        height: 218
+      alignment: 9
+      pivot: {x: 0.36362317, y: 0.5091866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1209
+        width: 298
+        height: 220
+      alignment: 9
+      pivot: {x: 0.33703777, y: 0.51137865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1206
+        width: 332
+        height: 226
+      alignment: 9
+      pivot: {x: 0.2918999, y: 0.5155067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 918
+        width: 333
+        height: 221
+      alignment: 9
+      pivot: {x: 0.30304885, y: 0.5090614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 921
+        width: 333
+        height: 219
+      alignment: 9
+      pivot: {x: 0.29402816, y: 0.49085587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 630
+        width: 336
+        height: 221
+      alignment: 9
+      pivot: {x: 0.2988473, y: 0.48867315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 631
+        width: 304
+        height: 217
+      alignment: 9
+      pivot: {x: 0.3386074, y: 0.4907716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 339
+        width: 271
+        height: 215
+      alignment: 9
+      pivot: {x: 0.3836135, y: 0.50465715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanngSpell_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 336
+        width: 241
+        height: 217
+      alignment: 9
+      pivot: {x: 0.43767905, y: 0.5092284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
