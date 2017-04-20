@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"Level Com Menu0000":
+{
+	"frame": {"x":0,"y":0,"w":603,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":603,"h":391},
+	"sourceSize": {"w":603,"h":391}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "Empty Lvl Com Menu.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"menus buttons0000":
+{
+	"frame": {"x":0,"y":0,"w":199,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":48},
+	"sourceSize": {"w":199,"h":48}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "Main Menus Button.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

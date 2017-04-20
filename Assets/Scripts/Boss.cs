@@ -19,7 +19,7 @@ public class Boss : Enemy {
 	private void Start() {
 		spellController = GetComponent<SpellController>();
 
-		defaultXScale = transform.localScale.x;
+		defaultXScale = Mathf.Abs(transform.localScale.x);
 
 		ChangeState(STATE_RITUAL);
 	}

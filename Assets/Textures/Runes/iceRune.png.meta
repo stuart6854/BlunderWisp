@@ -1,0 +1,1084 @@
+fileFormatVersion: 2
+guid: 956e8afa93aed854c8a61bc69d0c936a
+timeCreated: 1492679620
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ice Rune FbF_0
+    21300002: Ice Rune FbF_1
+    21300004: Ice Rune FbF_2
+    21300006: Ice Rune FbF_3
+    21300008: Ice Rune FbF_4
+    21300010: Ice Rune FbF_5
+    21300012: Ice Rune FbF_6
+    21300014: Ice Rune FbF_7
+    21300016: Ice Rune FbF_8
+    21300018: Ice Rune FbF_9
+    21300020: Ice Rune FbF_10
+    21300022: Ice Rune FbF_11
+    21300024: Ice Rune FbF_12
+    21300026: Ice Rune FbF_13
+    21300028: Ice Rune FbF_14
+    21300030: Ice Rune FbF_15
+    21300032: Ice Rune FbF_16
+    21300034: Ice Rune FbF_17
+    21300036: Ice Rune FbF_18
+    21300038: Ice Rune FbF_19
+    21300040: Ice Rune FbF_20
+    21300042: Ice Rune FbF_21
+    21300044: Ice Rune FbF_22
+    21300046: Ice Rune FbF_23
+    21300048: Ice Rune FbF_24
+    21300050: Ice Rune FbF_25
+    21300052: Ice Rune FbF_26
+    21300054: Ice Rune FbF_27
+    21300056: Ice Rune FbF_28
+    21300058: Ice Rune FbF_29
+    21300060: Ice Rune FbF_30
+    21300062: Ice Rune FbF_31
+    21300064: Ice Rune FbF_32
+    21300066: Ice Rune FbF_33
+    21300068: Ice Rune FbF_34
+    21300070: Ice Rune FbF_35
+    21300072: Ice Rune FbF_36
+    21300074: Ice Rune FbF_37
+    21300076: Ice Rune FbF_38
+    21300078: Ice Rune FbF_39
+    21300080: Ice Rune FbF_40
+    21300082: Ice Rune FbF_41
+    21300084: Ice Rune FbF_42
+    21300086: Ice Rune FbF_43
+    21300088: Ice Rune FbF_44
+    21300090: Ice Rune FbF_45
+    21300092: Ice Rune FbF_46
+    21300094: Ice Rune FbF_47
+    21300096: Ice Rune FbF_48
+    21300098: Ice Rune FbF_49
+    21300100: Ice Rune FbF_50
+    21300102: Ice Rune FbF_51
+    21300104: Ice Rune FbF_52
+    21300106: Ice Rune FbF_53
+    21300108: Ice Rune FbF_54
+    21300110: Ice Rune FbF_55
+    21300112: Ice Rune FbF_56
+    21300114: Ice Rune FbF_57
+    21300116: Ice Rune FbF_58
+    21300118: Ice Rune FbF_59
+    21300120: Ice Rune FbF_60
+    21300122: Ice Rune FbF_61
+    21300124: Ice Rune FbF_62
+    21300126: Ice Rune FbF_63
+    21300128: Ice Rune FbF_64
+    21300130: Ice Rune FbF_65
+    21300132: Ice Rune FbF_66
+    21300134: Ice Rune FbF_67
+    21300136: Ice Rune FbF_68
+    21300138: Ice Rune FbF_69
+    21300140: Ice Rune FbF_70
+    21300142: Ice Rune FbF_71
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Rune FbF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1900
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1900
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1900
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1900
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1900
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1900
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1752
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1752
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1752
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1752
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1752
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_12
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1752
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1752
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1604
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1604
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1604
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1604
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1604
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_19
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1604
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_20
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1604
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1456
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1456
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_24
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1456
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_25
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1456
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1456
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1456
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1308
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1308
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1308
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1308
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_33
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1308
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_34
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1308
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1160
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1160
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_38
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1160
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_39
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1160
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_40
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1160
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_41
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1160
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1012
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_44
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1012
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1012
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_46
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1012
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_47
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1012
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_48
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1012
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 864
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 864
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_52
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 864
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_53
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 864
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_54
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 864
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_55
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 864
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 716
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_58
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 716
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_59
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 716
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_60
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 716
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_61
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 716
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_62
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 716
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 568
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_65
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 568
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_66
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 568
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_67
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 568
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 568
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_69
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 568
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Rune FbF_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 420
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

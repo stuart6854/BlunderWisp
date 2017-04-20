@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"Fin Op text0000":
+{
+	"frame": {"x":0,"y":0,"w":864,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":864,"h":136},
+	"sourceSize": {"w":864,"h":136}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "Big Op Menu txt.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
