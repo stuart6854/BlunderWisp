@@ -65,7 +65,7 @@ public class LevelManager : MonoBehaviour {
 
 	private bool CheckForCompletion() {
 		foreach(Enemy enemy in enemies) {
-			if(enemy != null)
+			if(enemy != null && !enemy.isDead)
 				return false;
 		}
 
@@ -73,6 +73,7 @@ public class LevelManager : MonoBehaviour {
 	}
 
 	private void OnLevelComplete() {
+		Debug.Log("Level Complete!");
 		levelCompleteUI.SetActive(true);
 		characterController.enabled = false;
 		//TODO: Disable Character, AI, etc.

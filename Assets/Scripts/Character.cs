@@ -112,6 +112,7 @@ public class Character : Entity {
 	}
 
 	protected override void OnDie() {
+		isDead = true;
 		ChangeState(STATE_DEAD);
 	}
 

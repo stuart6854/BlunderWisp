@@ -152,6 +152,7 @@ public class Enemy : Entity {
 	}
 
 	protected override void OnDie() {
+		isDead = true;
 		LevelManager.AddScore(LevelManager.SCORE_PER_KILL);
 		ChangeState(STATE_DEAD);
 

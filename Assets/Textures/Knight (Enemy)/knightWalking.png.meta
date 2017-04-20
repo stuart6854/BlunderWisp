@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 71c8eacbe5972d34a8e7b8ae878042e7
-timeCreated: 1492351950
+timeCreated: 1492691400
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -98,11 +98,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3426
-        width: 600
-        height: 670
+        y: 3419
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -110,12 +110,12 @@ TextureImporter:
       name: knightWalking_1
       rect:
         serializedVersion: 2
-        x: 600
-        y: 3426
-        width: 600
-        height: 670
+        x: 594
+        y: 3419
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -123,12 +123,12 @@ TextureImporter:
       name: knightWalking_2
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 3426
-        width: 600
-        height: 670
+        x: 1188
+        y: 3419
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -136,12 +136,12 @@ TextureImporter:
       name: knightWalking_3
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 3426
-        width: 600
-        height: 670
+        x: 1782
+        y: 3419
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -149,12 +149,12 @@ TextureImporter:
       name: knightWalking_4
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 3426
-        width: 600
-        height: 670
+        x: 2376
+        y: 3419
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -162,12 +162,12 @@ TextureImporter:
       name: knightWalking_5
       rect:
         serializedVersion: 2
-        x: 3000
-        y: 3426
-        width: 600
-        height: 670
+        x: 2970
+        y: 3419
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -176,11 +176,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2756
-        width: 600
-        height: 670
+        y: 2742
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -188,12 +188,12 @@ TextureImporter:
       name: knightWalking_7
       rect:
         serializedVersion: 2
-        x: 600
-        y: 2756
-        width: 600
-        height: 670
+        x: 594
+        y: 2742
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -201,12 +201,12 @@ TextureImporter:
       name: knightWalking_8
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 2756
-        width: 600
-        height: 670
+        x: 1188
+        y: 2742
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -214,12 +214,12 @@ TextureImporter:
       name: knightWalking_9
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 2756
-        width: 600
-        height: 670
+        x: 1782
+        y: 2742
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -227,12 +227,12 @@ TextureImporter:
       name: knightWalking_10
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 2756
-        width: 600
-        height: 670
+        x: 2376
+        y: 2742
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -240,12 +240,12 @@ TextureImporter:
       name: knightWalking_11
       rect:
         serializedVersion: 2
-        x: 3000
-        y: 2756
-        width: 600
-        height: 670
+        x: 2970
+        y: 2742
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -254,11 +254,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2086
-        width: 600
-        height: 670
+        y: 2065
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -266,12 +266,12 @@ TextureImporter:
       name: knightWalking_13
       rect:
         serializedVersion: 2
-        x: 600
-        y: 2086
-        width: 600
-        height: 670
+        x: 594
+        y: 2065
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -279,12 +279,12 @@ TextureImporter:
       name: knightWalking_14
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 2086
-        width: 600
-        height: 670
+        x: 1188
+        y: 2065
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -292,12 +292,12 @@ TextureImporter:
       name: knightWalking_15
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 2086
-        width: 600
-        height: 670
+        x: 1782
+        y: 2065
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -305,12 +305,12 @@ TextureImporter:
       name: knightWalking_16
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 2086
-        width: 600
-        height: 670
+        x: 2376
+        y: 2065
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -318,12 +318,12 @@ TextureImporter:
       name: knightWalking_17
       rect:
         serializedVersion: 2
-        x: 3000
-        y: 2086
-        width: 600
-        height: 670
+        x: 2970
+        y: 2065
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -332,11 +332,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1416
-        width: 600
-        height: 670
+        y: 1388
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -344,12 +344,12 @@ TextureImporter:
       name: knightWalking_19
       rect:
         serializedVersion: 2
-        x: 600
-        y: 1416
-        width: 600
-        height: 670
+        x: 594
+        y: 1388
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -357,12 +357,12 @@ TextureImporter:
       name: knightWalking_20
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 1416
-        width: 600
-        height: 670
+        x: 1188
+        y: 1388
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -370,12 +370,12 @@ TextureImporter:
       name: knightWalking_21
       rect:
         serializedVersion: 2
-        x: 1800
-        y: 1416
-        width: 600
-        height: 670
+        x: 1782
+        y: 1388
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -383,12 +383,12 @@ TextureImporter:
       name: knightWalking_22
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 1416
-        width: 600
-        height: 670
+        x: 2376
+        y: 1388
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -396,12 +396,12 @@ TextureImporter:
       name: knightWalking_23
       rect:
         serializedVersion: 2
-        x: 3000
-        y: 1416
-        width: 600
-        height: 670
+        x: 2970
+        y: 1388
+        width: 594
+        height: 677
       alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      pivot: {x: 0.64, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

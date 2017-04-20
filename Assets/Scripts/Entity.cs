@@ -23,6 +23,8 @@ public abstract class Entity : MonoBehaviour {
 	protected Animator animator;
 	private int currentAnimState;
 
+	public bool isDead;
+
 	protected void Awake() {
 		col = GetComponent<BoxCollider2D>();
 		animator = GetComponent<Animator>();

@@ -92,6 +92,7 @@ public class Boss : Enemy {
 	}
 
 	protected override void OnDie() {
+		isDead = true;
 		LevelManager.AddScore(LevelManager.SCORE_PER_KILL);
 		ChangeState(STATE_DEAD);
 
