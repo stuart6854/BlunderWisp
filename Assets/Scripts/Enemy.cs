@@ -18,6 +18,11 @@ public class Enemy : Entity {
 	public float attackDistance = 1.0f;
 	public float attackCooldownTime = 2.0f;
 
+	[Header("Audio Clips")]
+	public AudioClip[] attackClips;
+	public AudioClip damagedClip;
+	public AudioClip deathClip;
+
 	private float accelerationTimeAirborne = .2f;
 	private float accelerationTimeGrounded = .1f;
 
@@ -148,13 +153,24 @@ public class Enemy : Entity {
 	protected override void Attack(Entity _e) {
 		int x = Random.Range(0, 2);
 		ChangeState((x == 0 ? STATE_ATTACK_1 : STATE_ATTACK_2));
+
+		int rnd = Random.Range(0, attackClips.Length);
+		audioPlayer.PlayOneShot(attackClips[rnd]);
+
 		_e.OnAttacked(attackDamage);
+	}
+
+	public override void OnAttacked(int _damage) {
+		audioPlayer.PlayOneShot(damagedClip);
+
+		base.OnAttacked(_damage);
 	}
 
 	protected override void OnDie() {
 		isDead = true;
 		LevelManager.AddScore(LevelManager.SCORE_PER_KILL);
 		ChangeState(STATE_DEAD);
+		audioPlayer.PlayOneShot(deathClip);
 
 		this.enabled = false; //Disable AI
 	}

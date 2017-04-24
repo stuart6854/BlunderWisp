@@ -1,6 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(BoxCollider2D))]
+[RequireComponent(typeof(AudioSource))]
 public abstract class Entity : MonoBehaviour {
 
 	[Header("Stats")]
@@ -23,11 +24,14 @@ public abstract class Entity : MonoBehaviour {
 	protected Animator animator;
 	private int currentAnimState;
 
+	protected AudioSource audioPlayer;
+
 	public bool isDead;
 
 	protected void Awake() {
 		col = GetComponent<BoxCollider2D>();
 		animator = GetComponent<Animator>();
+		audioPlayer = GetComponent<AudioSource>();
 
 		CalculateRaySpacing();
 

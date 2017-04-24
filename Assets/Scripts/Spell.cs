@@ -11,6 +11,7 @@ public class Spell : MonoBehaviour {
 	public float lifeTime = 4f; // How much time till this spell object is destroyed.
 
 	public Sprite icon;
+	public AudioClip soundClip;
 
 	public LayerMask groundLayer;
 
@@ -31,7 +32,7 @@ public class Spell : MonoBehaviour {
 			return;
 		}
 
-		if(target == null) {
+		if(target == null && _col.gameObject.layer != LayerMask.NameToLayer("Character")) {
 			Entity e = _col.transform.GetComponent<Entity>();
 			if(e != null) {
 				OnHitTarget(e);

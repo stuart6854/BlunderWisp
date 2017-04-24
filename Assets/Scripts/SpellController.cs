@@ -18,9 +18,13 @@ public class SpellController : MonoBehaviour {
 	private float currentMana;
 	private float manaPerSec;
 
+	private AudioSource audioPlayer;
+
 	private void Start() {
 		manaPerSec = (maxMana / manaRechargeTime);
 		currentMana = maxMana;
+
+		audioPlayer = GetComponent<AudioSource>();
 	}
 
 	private void Update() {
@@ -48,6 +52,9 @@ public class SpellController : MonoBehaviour {
 		Spell spell = spellObj.GetComponent<Spell>();
 		if(_target != null)
 			spell.target = _target.transform;
+
+		if(spell.soundClip != null)
+			audioPlayer.PlayOneShot(spell.soundClip);
 	}
 
 	public void NextSpell() {

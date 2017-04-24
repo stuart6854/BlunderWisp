@@ -1,0 +1,1210 @@
+fileFormatVersion: 2
+guid: 94d715ad5fcec3046a1e99b095248ab5
+timeCreated: 1493040713
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fang death_0
+    21300002: Fang death_1
+    21300004: Fang death_2
+    21300006: Fang death_3
+    21300008: Fang death_4
+    21300010: Fang death_5
+    21300012: Fang death_6
+    21300014: Fang death_7
+    21300016: Fang death_8
+    21300018: Fang death_9
+    21300020: Fang death_10
+    21300022: Fang death_11
+    21300024: Fang death_12
+    21300026: Fang death_13
+    21300028: Fang death_14
+    21300030: Fang death_15
+    21300032: Fang death_16
+    21300034: Fang death_17
+    21300036: Fang death_18
+    21300038: Fang death_19
+    21300040: Fang death_20
+    21300042: Fang death_21
+    21300044: Fang death_22
+    21300046: Fang death_23
+    21300048: Fang death_24
+    21300050: Fang death_25
+    21300052: Fang death_26
+    21300054: Fang death_27
+    21300056: Fang death_28
+    21300058: Fang death_29
+    21300060: Fang death_30
+    21300062: Fang death_31
+    21300064: Fang death_32
+    21300066: Fang death_33
+    21300068: Fang death_34
+    21300070: Fang death_35
+    21300072: Fang death_36
+    21300074: Fang death_37
+    21300076: Fang death_38
+    21300078: Fang death_39
+    21300080: Fang death_40
+    21300082: Fang death_41
+    21300084: Fang death_42
+    21300086: Fang death_43
+    21300088: Fang death_44
+    21300090: Fang death_45
+    21300092: Fang death_46
+    21300094: Fang death_47
+    21300096: Fang death_48
+    21300098: Fang death_49
+    21300100: Fang death_50
+    21300102: Fang death_51
+    21300104: Fang death_52
+    21300106: Fang death_53
+    21300108: Fang death_54
+    21300110: Fang death_55
+    21300112: Fang death_56
+    21300114: Fang death_57
+    21300116: Fang death_58
+    21300118: Fang death_59
+    21300120: Fang death_60
+    21300122: Fang death_61
+    21300124: Fang death_62
+    21300126: Fang death_63
+    21300128: Fang death_64
+    21300130: Fang death_65
+    21300132: Fang death_66
+    21300134: Fang death_67
+    21300136: Fang death_68
+    21300138: Fang death_69
+    21300140: Fang death_70
+    21300142: Fang death_71
+    21300144: Fang death_72
+    21300146: Fang death_73
+    21300148: Fang death_74
+    21300150: Fang death_75
+    21300152: Fang death_76
+    21300154: Fang death_77
+    21300156: Fang death_78
+    21300158: Fang death_79
+    21300160: Fang death_80
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fang death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_2
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_3
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_4
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_5
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_6
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_7
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_8
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 7292
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_10
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_11
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_12
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_13
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_14
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_15
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_16
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_17
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 6392
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_20
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_21
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_22
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_23
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_24
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_25
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_26
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 5492
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_28
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_29
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_30
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_31
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_32
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_33
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_34
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_35
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 4592
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_37
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_38
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_39
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_40
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_41
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_42
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_43
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_44
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 3692
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_46
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_47
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_48
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_49
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_50
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_51
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_52
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_53
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 2792
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_55
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_56
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_57
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_58
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_59
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_60
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_61
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_62
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 1892
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_64
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_65
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_66
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_67
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_68
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_69
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_70
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_71
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 992
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_73
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_74
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_75
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_76
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_77
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_78
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_79
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fang death_80
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 92
+        width: 854
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
