@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 19984963feec94a4eac3628d431e2d2a
-timeCreated: 1492678604
+timeCreated: 1493155335
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -123,12 +123,12 @@ TextureImporter:
       name: Altar_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 7639
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 7629
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -136,12 +136,12 @@ TextureImporter:
       name: Altar_1
       rect:
         serializedVersion: 2
-        x: 594
-        y: 7639
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 7629
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -149,12 +149,12 @@ TextureImporter:
       name: Altar_2
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 7639
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1180
+        y: 7629
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -163,11 +163,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1770
-        y: 7639
-        width: 568
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 7629
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -175,12 +175,12 @@ TextureImporter:
       name: Altar_4
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 7639
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2360
+        y: 7629
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -188,12 +188,12 @@ TextureImporter:
       name: Altar_5
       rect:
         serializedVersion: 2
-        x: 2946
-        y: 7639
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2950
+        y: 7629
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -201,12 +201,12 @@ TextureImporter:
       name: Altar_6
       rect:
         serializedVersion: 2
-        x: 7
-        y: 7078
-        width: 566
-        height: 551
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 7066
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -214,12 +214,12 @@ TextureImporter:
       name: Altar_7
       rect:
         serializedVersion: 2
-        x: 594
-        y: 7078
-        width: 567
-        height: 548
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 7066
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -227,12 +227,12 @@ TextureImporter:
       name: Altar_8
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 7075
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1180
+        y: 7066
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -241,11 +241,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1770
-        y: 7075
-        width: 567
-        height: 554
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 7066
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -253,12 +253,12 @@ TextureImporter:
       name: Altar_10
       rect:
         serializedVersion: 2
-        x: 2359
-        y: 7078
-        width: 566
-        height: 551
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2360
+        y: 7066
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -266,12 +266,12 @@ TextureImporter:
       name: Altar_11
       rect:
         serializedVersion: 2
-        x: 2946
-        y: 7078
-        width: 567
-        height: 548
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2950
+        y: 7066
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -279,12 +279,12 @@ TextureImporter:
       name: Altar_12
       rect:
         serializedVersion: 2
-        x: 6
-        y: 6515
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 6503
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -292,12 +292,12 @@ TextureImporter:
       name: Altar_13
       rect:
         serializedVersion: 2
-        x: 594
-        y: 6515
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 6503
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -305,12 +305,12 @@ TextureImporter:
       name: Altar_14
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 6515
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1180
+        y: 6503
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -319,11 +319,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1770
-        y: 6515
-        width: 568
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 6503
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -331,12 +331,12 @@ TextureImporter:
       name: Altar_16
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 6515
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2360
+        y: 6503
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -344,12 +344,12 @@ TextureImporter:
       name: Altar_17
       rect:
         serializedVersion: 2
-        x: 2946
-        y: 6515
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2950
+        y: 6503
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -357,12 +357,12 @@ TextureImporter:
       name: Altar_18
       rect:
         serializedVersion: 2
-        x: 6
-        y: 5952
-        width: 567
-        height: 549
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 5940
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -370,12 +370,12 @@ TextureImporter:
       name: Altar_19
       rect:
         serializedVersion: 2
-        x: 594
-        y: 5952
-        width: 567
-        height: 549
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 5940
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -383,12 +383,12 @@ TextureImporter:
       name: Altar_20
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 5952
-        width: 567
-        height: 553
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1180
+        y: 5940
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -397,11 +397,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1770
-        y: 5952
-        width: 567
-        height: 549
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 5940
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -409,12 +409,12 @@ TextureImporter:
       name: Altar_22
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 5952
-        width: 567
-        height: 549
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2360
+        y: 5940
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -422,12 +422,12 @@ TextureImporter:
       name: Altar_23
       rect:
         serializedVersion: 2
-        x: 2946
-        y: 5952
-        width: 567
-        height: 549
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2950
+        y: 5940
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -435,12 +435,12 @@ TextureImporter:
       name: Altar_24
       rect:
         serializedVersion: 2
-        x: 6
-        y: 5391
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 5377
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -448,12 +448,12 @@ TextureImporter:
       name: Altar_25
       rect:
         serializedVersion: 2
-        x: 594
-        y: 5391
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 5377
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -461,12 +461,12 @@ TextureImporter:
       name: Altar_26
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 5391
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1180
+        y: 5377
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -475,11 +475,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1770
-        y: 5391
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 5377
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -487,12 +487,12 @@ TextureImporter:
       name: Altar_28
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 5391
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2360
+        y: 5377
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -500,12 +500,12 @@ TextureImporter:
       name: Altar_29
       rect:
         serializedVersion: 2
-        x: 2946
-        y: 5391
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2950
+        y: 5377
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -513,12 +513,12 @@ TextureImporter:
       name: Altar_30
       rect:
         serializedVersion: 2
-        x: 6
-        y: 4828
-        width: 567
-        height: 552
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 4814
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -526,12 +526,12 @@ TextureImporter:
       name: Altar_31
       rect:
         serializedVersion: 2
-        x: 592
-        y: 4828
-        width: 569
-        height: 552
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 4814
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -539,12 +539,12 @@ TextureImporter:
       name: Altar_32
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 4828
-        width: 567
-        height: 552
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1180
+        y: 4814
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -553,11 +553,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1770
-        y: 4828
-        width: 567
-        height: 552
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 4814
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -565,12 +565,12 @@ TextureImporter:
       name: Altar_34
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 4828
-        width: 567
-        height: 552
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2360
+        y: 4814
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -578,12 +578,12 @@ TextureImporter:
       name: Altar_35
       rect:
         serializedVersion: 2
-        x: 2944
-        y: 4828
-        width: 569
-        height: 552
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2950
+        y: 4814
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -591,12 +591,12 @@ TextureImporter:
       name: Altar_36
       rect:
         serializedVersion: 2
-        x: 6
-        y: 4267
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 4251
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -604,12 +604,12 @@ TextureImporter:
       name: Altar_37
       rect:
         serializedVersion: 2
-        x: 592
-        y: 4267
-        width: 569
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 4251
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -617,12 +617,12 @@ TextureImporter:
       name: Altar_38
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 4267
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1180
+        y: 4251
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -631,11 +631,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1770
-        y: 4267
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 4251
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -643,12 +643,12 @@ TextureImporter:
       name: Altar_40
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 4267
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2360
+        y: 4251
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -656,12 +656,12 @@ TextureImporter:
       name: Altar_41
       rect:
         serializedVersion: 2
-        x: 2944
-        y: 4267
-        width: 569
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2950
+        y: 4251
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -669,12 +669,12 @@ TextureImporter:
       name: Altar_42
       rect:
         serializedVersion: 2
-        x: 6
-        y: 3703
-        width: 567
-        height: 553
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 3688
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -682,12 +682,12 @@ TextureImporter:
       name: Altar_43
       rect:
         serializedVersion: 2
-        x: 594
-        y: 3706
-        width: 567
-        height: 547
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 3688
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -695,12 +695,12 @@ TextureImporter:
       name: Altar_44
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 3703
-        width: 567
-        height: 553
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1180
+        y: 3688
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -709,11 +709,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1770
-        y: 3704
-        width: 567
-        height: 552
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 3688
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -721,12 +721,12 @@ TextureImporter:
       name: Altar_46
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 3703
-        width: 567
-        height: 553
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2360
+        y: 3688
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -734,12 +734,12 @@ TextureImporter:
       name: Altar_47
       rect:
         serializedVersion: 2
-        x: 2946
-        y: 3706
-        width: 567
-        height: 547
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2950
+        y: 3688
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -747,12 +747,12 @@ TextureImporter:
       name: Altar_48
       rect:
         serializedVersion: 2
-        x: 6
-        y: 3143
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 3125
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -760,12 +760,12 @@ TextureImporter:
       name: Altar_49
       rect:
         serializedVersion: 2
-        x: 594
-        y: 3143
-        width: 567
-        height: 550
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 590
+        y: 3125
+        width: 590
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

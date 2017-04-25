@@ -1,9 +1,33 @@
 fileFormatVersion: 2
 guid: ace37fa4a01c02243b9da5070f850fee
-timeCreated: 1493039372
+timeCreated: 1493153907
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Wisp Jump_0
+    21300002: Wisp Jump_1
+    21300004: Wisp Jump_2
+    21300006: Wisp Jump_3
+    21300008: Wisp Jump_4
+    21300010: Wisp Jump_5
+    21300012: Wisp Jump_6
+    21300014: Wisp Jump_7
+    21300016: Wisp Jump_8
+    21300018: Wisp Jump_9
+    21300020: Wisp Jump_10
+    21300022: Wisp Jump_11
+    21300024: Wisp Jump_12
+    21300026: Wisp Jump_13
+    21300028: Wisp Jump_14
+    21300030: Wisp Jump_15
+    21300032: Wisp Jump_16
+    21300034: Wisp Jump_17
+    21300036: Wisp Jump_18
+    21300038: Wisp Jump_19
+    21300040: Wisp Jump_20
+    21300042: Wisp Jump_21
+    21300044: Wisp Jump_22
+    21300046: Wisp Jump_23
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +82,329 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Wisp Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3612
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3612
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_2
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3612
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_3
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3612
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3128
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3128
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3128
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3128
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2644
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2644
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_10
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2644
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_11
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2644
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2160
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_14
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2160
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_15
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2160
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1676
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1676
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1676
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_19
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1676
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_21
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1192
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_22
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1192
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wisp Jump_23
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1192
+        width: 493
+        height: 484
+      alignment: 9
+      pivot: {x: 0.4, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

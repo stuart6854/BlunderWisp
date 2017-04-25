@@ -100,7 +100,7 @@ public class LevelManager : MonoBehaviour {
 		scoreLabel.text = finalScore + "";
 	}
 
-	private void OnLevelFailed() {
+	public void OnLevelFailed() {
 		levelFailedUI.SetActive(true);
 		characterController.enabled = false;
 		//TODO: Disable Character, AI, etc.

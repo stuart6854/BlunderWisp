@@ -83,8 +83,10 @@ public class Character : Entity {
 
 		if(Input.GetMouseButtonDown(0) && spellController.CanUseActiveSpell())
 			ChangeState(STATE_ATTACK);
-		else if(movement == 0 && !isPlaying_Attack)
+		else if(movement == 0 && !isPlaying_Attack && collisionInfo.below)
 			ChangeState(STATE_IDLE);
+		else if(!isPlaying_Attack && !collisionInfo.below)
+			ChangeState(STATE_JUMP);
 		else if(movement != 0 && !isPlaying_Attack)
 			ChangeState(STATE_WALK);
 
@@ -114,6 +116,9 @@ public class Character : Entity {
 	protected override void OnDie() {
 		isDead = true;
 		ChangeState(STATE_DEAD);
+
+		GameObject lvlManager = GameObject.FindWithTag("LevelManager");
+		lvlManager.GetComponent<LevelManager>().OnLevelFailed();
 	}
 
 }
