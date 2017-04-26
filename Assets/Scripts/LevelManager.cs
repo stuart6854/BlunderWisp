@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(AudioSource))]
 public class LevelManager : MonoBehaviour {
 
 	public static LevelManager instance;
@@ -21,10 +22,14 @@ public class LevelManager : MonoBehaviour {
 
 	[Header("References")]
 	public GameObject levelCompleteUI;
+	public AudioClip lvlCompleteSound;
 	public GameObject levelFailedUI;
+	public AudioClip lvlFailSound;
 	public Text scoreLabel;
 	public Text timeLabel;
 	public Character characterController;
+
+	private AudioSource soundPlayer;
 
 	private float levelStartTime;
 	private static int currentScore;
@@ -33,6 +38,7 @@ public class LevelManager : MonoBehaviour {
 
 	private void Awake() {
 		instance = this;
+		soundPlayer = GetComponent<AudioSource>();
 
 		enemies = new List<Enemy>();
 		foreach(GameObject obj in GameObject.FindGameObjectsWithTag("Enemy")) {
@@ -73,8 +79,9 @@ public class LevelManager : MonoBehaviour {
 	}
 
 	private void OnLevelComplete() {
-		Debug.Log("Level Complete!");
-		levelCompleteUI.SetActive(true);
+		if(lvlCompleteSound != null)
+			soundPlayer.PlayOneShot(lvlCompleteSound);
+		StartCoroutine(ShowMenu(levelCompleteUI, 0.5f));
 		characterController.enabled = false;
 		//TODO: Disable Character, AI, etc.
 
@@ -101,9 +108,16 @@ public class LevelManager : MonoBehaviour {
 	}
 
 	public void OnLevelFailed() {
-		levelFailedUI.SetActive(true);
+		if(lvlFailSound != null)
+			soundPlayer.PlayOneShot(lvlFailSound);
+		StartCoroutine(ShowMenu(levelFailedUI, 2.0f));
 		characterController.enabled = false;
 		//TODO: Disable Character, AI, etc.
+	}
+
+	private IEnumerator ShowMenu(GameObject _menu, float _delaySecs) {
+		yield return new WaitForSeconds(_delaySecs);
+		_menu.SetActive(true);
 	}
 
 	public static void AddScore(int _score) {

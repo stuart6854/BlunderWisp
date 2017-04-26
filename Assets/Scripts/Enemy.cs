@@ -173,6 +173,8 @@ public class Enemy : Entity {
 		audioPlayer.PlayOneShot(deathClip);
 
 		this.enabled = false; //Disable AI
+		GetComponent<Collider2D>().enabled = false;
+
 	}
 
 }

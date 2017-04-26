@@ -17,6 +17,8 @@ public class Character : Entity {
 	private float accelerationTimeGrounded = .1f;
 
 	public Image healthBar;
+	public AudioClip deathSound;
+	public AudioClip hitSound;
 
 	private float gravity;
 	private float jumpVelocity;
@@ -83,10 +85,8 @@ public class Character : Entity {
 
 		if(Input.GetMouseButtonDown(0) && spellController.CanUseActiveSpell())
 			ChangeState(STATE_ATTACK);
-		else if(movement == 0 && !isPlaying_Attack && collisionInfo.below)
+		else if(movement == 0 && !isPlaying_Attack)
 			ChangeState(STATE_IDLE);
-		else if(!isPlaying_Attack && !collisionInfo.below)
-			ChangeState(STATE_JUMP);
 		else if(movement != 0 && !isPlaying_Attack)
 			ChangeState(STATE_WALK);
 
@@ -109,6 +109,8 @@ public class Character : Entity {
 
 	public override void OnAttacked(int _damage) {
 		base.OnAttacked(_damage);
+		if(hitSound != null)
+			audioPlayer.PlayOneShot(hitSound);
 
 		healthBar.fillAmount = ((float)currentHealth / (float)maxHealth);
 	}
@@ -116,6 +118,8 @@ public class Character : Entity {
 	protected override void OnDie() {
 		isDead = true;
 		ChangeState(STATE_DEAD);
+		if(deathSound != null)
+			audioPlayer.PlayOneShot(deathSound);
 
 		GameObject lvlManager = GameObject.FindWithTag("LevelManager");
 		lvlManager.GetComponent<LevelManager>().OnLevelFailed();

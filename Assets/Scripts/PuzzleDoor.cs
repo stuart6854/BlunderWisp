@@ -11,7 +11,8 @@ public class PuzzleDoor : PuzzleAction {
 		if(sound != null)
 			GetComponent<AudioSource>().PlayOneShot(sound);
 
-		gameObject.SetActive(false);
+		GetComponent<Renderer>().enabled = false;
+		GetComponent<Collider2D>().enabled = false;
 	}
 
 }
